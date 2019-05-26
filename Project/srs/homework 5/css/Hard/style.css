@@ -1,0 +1,48 @@
+body {
+    
+    background-image:url(https://add-fecamp.upchrist.org/wp-content/uploads/sites/8/2016/05/paper-1.jpg); 
+    padding-right: 15%
+}
+h2 {
+    font-size: 30px ;
+    color: rgb(116, 80, 38);
+    text-decoration: underline;
+    text-align: center
+
+}
+h3 {
+    text-decoration: underline;
+    color: rgb(116, 80,38);}
+.text-start1 {
+    color: rgb(100, 27, 27);
+}
+.text-start2 {
+    color: rgb(116, 80,38)
+}
+    .text-end{
+    color: rgba(255, 0, 0, 0.863)
+}
+a {
+    color:rgb(0, 0, 0);
+}
+p {
+    color: #000;
+    font-size: 19px;   
+}
+.scrolling {
+    display: block ;
+    position: fixed;
+    bottom: 0
+    top 105px; 
+    right: 0px;
+    background: rgb(153, 178, 226); 
+}
+h1{
+    text-align: center
+}
+.image {
+width:1000px
+}
+.image {
+width: 1000px
+}

@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    text-align:center;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 82px;
+    margin-top: 70px;
+    color: #333333;
+    font-size: 24px;
+    font-weight: 700;
+}
+.text {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    color: #333333;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 21px;
+    margin-bottom: 97px;
+}
+.text-1 {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    color: #333333;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 36px;
+}

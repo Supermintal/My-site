@@ -1,0 +1,134 @@
+.start {
+    background-color: #f4f5f7;
+    padding-top: 70px;
+    padding-bottom: 190px;
+}
+.main  {
+    margin-top: 100px;
+}
+.main-text {
+    color: #32325f;
+}
+.main-image {
+    padding-left: 200px;
+}
+.subtitle {
+    font-size: 20px;
+    font-weight: 400;
+}
+.title {
+    font-size: 48px;
+    font-weight: 700;   
+}
+.description {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+.tag {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.price {
+    font-size: 48px;
+    font-weight: 400;
+    margin-bottom: 49px;
+}
+.button-green {
+    text-decoration: none;
+    box-shadow: 0 3px 6px rgba(173, 173, 173, 0.16);
+    border-radius: 6px;
+    padding: 21px 31px;
+    color: #fff;
+    border: none;
+    background-color: #2dce89;
+    margin-right: 30px;
+    width: 214px;
+    height: 66px;
+    font-size: 20px;
+    font-weight: 700; 
+    margin-top: 50px;  
+}
+.button-blue {
+    text-decoration: none;
+    box-shadow: 0 3px 6px rgba(173, 173, 173, 0.16);
+    border-radius: 6px;
+    padding: 21px 31px;
+    color: #fff;
+    border: none;
+    background-color: #5e72e4;
+    width: 250px;
+    height: 66px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 50px; 
+}
+.section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.section-heading {
+    color: #32325f;
+}
+.section-subtitle {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.section-title {
+    font-size: 48px;
+    font-weight: 700;  
+    margin-bottom: 100px;
+}
+.about-block {
+    margin-top: 100px;
+}
+.block-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-top: 40px;
+    color: #32325f;
+    margin-bottom: 130px;
+}
+.bought {
+    margin-bottom: 16px;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 90px;
+}
+.buy {
+    font-size: 48px;
+    font-weight: 700;
+}
+.people-section{
+    background-color: #f4f5f7;
+    padding-bottom: 115px;
+}
+.footer {
+    background-color: #32325f;
+    color: #ffffff;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.footer-name {
+    font-size: 24px;
+    font-weight: 700;
+    color: #ffffff;
+    margin-bottom: 35px;
+}
+.navbar {
+    font-size: 20px;
+    font-weight: 700;
+    color: #95989a;
+    padding: 0;
+}
+
+
+
+
+
+
